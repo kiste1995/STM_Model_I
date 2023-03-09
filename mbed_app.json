@@ -1,0 +1,7 @@
+{
+    "target_overrides": {
+        "*": {
+            "drivers.uart-serial-txbuf-size": 1024
+        }
+    }
+}

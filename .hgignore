@@ -1,0 +1,4 @@
+^BUILD$
+^.mbed$
+^ros_lib_kinetic/BufferedSerial$
+^mbed-os$
